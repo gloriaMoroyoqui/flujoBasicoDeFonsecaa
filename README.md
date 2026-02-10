@@ -1,0 +1,2 @@
+# flujoBasicoDeFonsecaa
+Primera practica 
